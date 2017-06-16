@@ -1,0 +1,17 @@
+{
+    "name": "ConfigurableUpcomingEvents",
+    "version": "5.0.1",
+    "framework": [
+        "4.0.x",
+        "5.0.x"
+    ],
+    "vendor": {
+        "name": "Perl-Services.de",
+        "url": "http://www.perl-services.de"
+    },
+    "license": "GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007",
+    "description" : {
+        "en": "Adds configuration of shown tickets to upcoming events dashlet",
+        "de": "Fügt Konfiguration von angezeigten Tickets im Dashlet 'Anstehende Ereignisse' hinzu"
+    }
+}
